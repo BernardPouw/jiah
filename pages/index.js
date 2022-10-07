@@ -13,9 +13,9 @@ export default function Home() {
 
       <main>
         <Header title="Hey there!" />
-        <p className="description" class="animate__animated animate__bounce">
+        <h1 class="animate__animated animate__bounce">
           I have something that I want to <code>TELL YOU!</code>
-        </p>
+        </h1>
       </main>
 
       <Footer />
