@@ -12,10 +12,15 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Hey there!" />
-        <h1 class="animate__animated animate__bounce">
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
+      <h1 class="ml10">
+        <span class="text-wrapper">
+        <span class="letters">Domino Dreams</span>
+        </span>
+      </h1>
+        <p class="animate__animated animate__bounce">
           I have something that I want to <code>TELL YOU!</code>
-        </h1>
+        </p>
       </main>
 
       <Footer />
