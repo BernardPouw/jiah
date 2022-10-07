@@ -9,6 +9,8 @@ export default function Home() {
         <title>Hey!</title>
         <link rel="icon" href="/favicon.ico" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+        <link rel="stylesheet" href="index.css"/>
+        <script src="script.js"></script>
       </Head>
 
       <main>
